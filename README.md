@@ -31,8 +31,8 @@ To run the project, follow these steps to set up the development environment.
 
 **1. Clone the repository and set the environment**
 ```bash
-git clone https://github.com/Catairu/FDS_HW_1.git
-cd FDS_HW_1
+git clone https://github.com/Catairu/Pokemon-Battle-Predictor.git
+cd Pokemon-Battle-Predictor
 uv sync
 ```
 
